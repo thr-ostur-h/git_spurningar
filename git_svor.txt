@@ -1,0 +1,7 @@
+#Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	a)cd = færir þig á svæðið sem þú villt vinna á t.d cd c
+	b)cd ~ = ferð á heimasvæðið þitt
+	c)ls = sýnir þér hvað er í möppuni sem þú ert í
+	d)pwd = segir hvaða möppu maður er í
+	e)mkdir = býr til möppu
