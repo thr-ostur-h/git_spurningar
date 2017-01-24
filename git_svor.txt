@@ -22,3 +22,6 @@
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 	Það er source control
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+	Þetta er gott fyrir fyrirtæki þar sem það er einfalt að vinna saman á kerfinu
