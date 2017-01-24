@@ -19,3 +19,6 @@
 	svar: git diff commit1 commit2 er samanburður á milli tveggja hluta
 	git diff --staged er samanburður á stage stigi
 	git diff er bara samanburður
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+	Það er source control
