@@ -25,3 +25,6 @@
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 	Þetta er gott fyrir fyrirtæki þar sem það er einfalt að vinna saman á kerfinu
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Það ætti að gera það fyrir hvern einasta hlut sem þú breytir svo fólk veit hvað hefur verið gert og hver gerði það
