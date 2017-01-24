@@ -11,3 +11,11 @@
 	c)git status = Birtir leiðir sem hafa mismunandi milli vísitölu skrá og núverandi yfirmaður fremja
 	d)git diff = Sýnir breytingarnar á milli vinnandi trés og index eða trés
 	e)git checkout = uppfærir file-in á svæðinu sem þú ert að vinna
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff
+	b) git diff --staged 
+	c) git diff commit1 commit2
+	svar: git diff commit1 commit2 er samanburður á milli tveggja hluta
+	git diff --staged er samanburður á stage stigi
+	git diff er bara samanburður
